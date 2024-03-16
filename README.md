@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aerobeng
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C,Python and JavaScript
-- 💞️ I’m looking to collaborate on easy tasks to 
+- 💞️ I’m looking to collaborate on easy tasks to practice my coding skills on real life problems.
 - 📫 How to reach me aerobeng6704@gmail.com
 
 <!---
